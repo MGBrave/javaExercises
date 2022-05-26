@@ -5,12 +5,12 @@
 <a href="https://www.dio.me/sign-in" target="_blank"> <img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logo-dio.png?raw=true" alt="dio" width="40" /> </a>
 <br>
 
-http://alga.works/livro-logica-de-programacao
 
-
-<a href="http://alga.works/livro-logica-de-programacao" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank">
+<a href="http://alga.works/livro-logica-de-programacao" target="_blank"> <img src="https://github.com/martageraldo/javaExercises/blob/main/algaworks.png" alt="Programação"/> </a><a href="http://alga.works/livro-logica-de-programacao" target="_blank">
+ 
 <br>
-<img src="https://github.com/martageraldo/Flexbox-website/blob/main/land.jpg" alt="landing-page"/> </a>
+ 
+
 
 
 

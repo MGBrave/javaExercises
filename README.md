@@ -1,8 +1,8 @@
 # Exercícios do Livro "Programação para iniciantes"   
 ### Aprenda lógica de programação com java de Alexandre Afonso da Algaworks
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.dio.me/sign-in" target="_blank"> <img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logo-dio.png?raw=true" alt="dio" width="40" /> </a>
+<a href="https://www.algaworks.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/><a href="https://www.algaworks.com/" target="_blank"> 
+
 <br>
 
 
